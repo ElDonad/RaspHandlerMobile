@@ -1,7 +1,6 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using RaspHandlerMobile.Views;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace RaspHandlerMobile
